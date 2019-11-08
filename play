@@ -1,9 +1,18 @@
 
 <html>
-<head><title>Play</title></head><body>
+<head><title>Play</title>
+<script>setTimeout(function(){
+   window.location.reload(1);
+}, 5000);
+</script>
+</head>
+
+<body>
             <embed width="420" height="315"
             src="https://www.youtube.com/embed/_MlfcXjlwaE">
             <h1>play</h1>
             <meta http-equiv="refresh" content="5; URL=http://jharinda.github.io/playvideo/play">
+            
             </body>
+            
 </html>
